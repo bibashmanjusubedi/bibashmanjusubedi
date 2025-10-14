@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Bibash Manju Subedi
 
-<!--
-**bibashmanjusubedi/bibashmanjusubedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 Location: Itahari, Nepal
+- 💻 Full-stack developer focused on ASP.NET Core, SQLite, REST APIs, and responsive web.
+- 🤝 Open source contributor, project collaborator, and code reviewer.
 
-Here are some ideas to get you started:
+## 📌 Pinned Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Assets-Management-System:** Forked asset tracking project.
+- **Internship:** ASP.NET web app for Lunar IT Solution.
+- **karatedojosite:** Karate dojo management website.
+- **codefornepal.github.io:** Device-agnostic website for Code for Nepal.
+- **OpenShelf:** Collaboration for freeCodeCamp 2025 Summer Hackathon.
+- **Location_Tracker:** JS-based location tracking demo.
+
+---
+
+## 🚦 Activity Overview
+
+Below is a **radar chart** showing my recent GitHub contributions:
+
+![GitHub Contribution Radar](dr.jpg)
+
+**Legend:**
+- **Commits**: 80%
+- **Code review**: 12%
+- **Issues**: 7%
+- **Pull requests**: 1%
+
+---
+
+## 📫 Connect with me
+
+- GitHub: [bibashmanjusubedi](https://github.com/bibashmanjusubedi)
+
+---
+
+*Let's build, share, and learn—one commit at a time!*
