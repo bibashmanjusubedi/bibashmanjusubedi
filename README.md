@@ -13,21 +13,6 @@
 - **OpenShelf:** Collaboration for freeCodeCamp 2025 Summer Hackathon.
 - **Location_Tracker:** JS-based location tracking demo.
 
----
-
-## 🚦 Activity Overview
-
-Below is a **radar chart** showing my recent GitHub contributions:
-
-![GitHub Contribution Radar](dr.jpg)
-
-**Legend:**
-- **Commits**: 80%
-- **Code review**: 12%
-- **Issues**: 7%
-- **Pull requests**: 1%
-
----
 
 ## 📫 Connect with me
 
