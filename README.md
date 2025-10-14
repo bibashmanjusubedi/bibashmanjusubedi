@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bibash Manju Subedi
 
 - 🌍 Location: Itahari, Nepal
-- 💻 Full-stack developer focused on ASP.NET Core, SQLite, REST APIs, and responsive web.
+- 💻 Full-stack developer focused on ASP.NET Core,Django SQLite, REST APIs, and responsive web.
 - 🤝 Open source contributor, project collaborator, and code reviewer.
 
 ## 📌 Pinned Projects
