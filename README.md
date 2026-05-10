@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Bibash Manju Subedi
 
 - 🌍 Location: Itahari, Nepal
-- 💻 Full-stack developer focused on ASP.NET Core,Django SQLite, REST APIs, and responsive web.
+- 💻 Full-stack developer focused on ASP.NET Core, Django, Relational Databases, REST APIs, and responsive web development.
+- ⚛️ Currently learning ReactJS and building modern frontend applications.
 - 🤝 Open source contributor, project collaborator, and code reviewer.
 
 ## 🛠️ Languages & Technologies
@@ -10,7 +11,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
+![React](https://img.shields.io/badge/ReactJS-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ## 📌 Pinned Projects
 
@@ -21,11 +22,16 @@
 - **OpenShelf:** Collaboration for freeCodeCamp 2025 Summer Hackathon.
 - **Location_Tracker:** JS-based location tracking demo.
 
+## 🌱 Currently Exploring
+
+- ReactJS fundamentals and component-based architecture
+- Frontend UI development and state management
+- REST API integration with modern JavaScript frameworks
 
 ## 📫 Connect with me
 
 - GitHub: [bibashmanjusubedi](https://github.com/bibashmanjusubedi)
-- Portfolio: bibashacharya.me
+- Portfolio: acharyabibash123.netlify.app
 
 ---
 
