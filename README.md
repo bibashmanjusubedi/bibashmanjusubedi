@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bibash Manju Subedi
 
 - 🌍 Location: Itahari, Nepal
-- 💻 Full-stack developer focused on ASP.NET Core, Django, Relational Databases, REST APIs, and responsive web development.
+- 💻 Full-stack developer focused on ASP.NET Core, Django,Flask,Relational Databases, REST APIs, and responsive web development.
 - ⚛️ Currently learning ReactJS and building modern frontend applications.
 - 🤝 Open source contributor, project collaborator, and code reviewer.
 
