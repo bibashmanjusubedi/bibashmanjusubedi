@@ -31,7 +31,7 @@
 ## 📫 Connect with me
 
 - GitHub: [bibashmanjusubedi](https://github.com/bibashmanjusubedi)
-- Portfolio: acharyabibash123.netlify.app
+- Portfolio: acharyabibash123.netlify.app / bibashacharya.com.np
 
 ---
 
