@@ -15,12 +15,15 @@
 
 ## 📌 Pinned Projects
 
+- **Megamart** An ECommerce Website
+- **NetflixNepalClone** A Netflix Nepal Clone
+- **OpenShelf:** freeCodeCamp 2025 Summer Hackathon Team Project
 - **Assets-Management-System:** Forked asset tracking project.
 - **Internship:** ASP.NET web app for Lunar IT Solution.
 - **karatedojosite:** Karate dojo management website.
 - **codefornepal.github.io:** Device-agnostic website for Code for Nepal.
-- **OpenShelf:** Collaboration for freeCodeCamp 2025 Summer Hackathon.
 - **Location_Tracker:** JS-based location tracking demo.
+
 
 ## 🌱 Currently Exploring
 
@@ -31,7 +34,7 @@
 ## 📫 Connect with me
 
 - GitHub: [bibashmanjusubedi](https://github.com/bibashmanjusubedi)
-- Portfolio: acharyabibash123.netlify.app / bibashacharya.com.np
+- Portfolio: bibashacharya.com.np /acharyabibash123.netlify.app
 
 ---
 
